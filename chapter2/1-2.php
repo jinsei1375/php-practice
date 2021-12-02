@@ -8,7 +8,18 @@
 </head>
 <body>
     <?php
-        echo '<h1>チャンネル登録してね</h1>';
+        $jojo = 'ジョナサン';
+        $jonasan = 'ジョナサンn';
+        echo $jojo;
+        echo '<br>';
+        echo $jonasan;
+        echo 'ここからは第二部';
+        echo '<br>';
+        $jojo = 'ジョナサン2ぶ';
+        echo $jojo;
+        $ojii = $jojo;
+        echo '<br>';
+        echo $ojii;
     ?>
 </body>
 </html>
